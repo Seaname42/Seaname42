@@ -1,0 +1,156 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.}
+
+html {
+height: 100vh;
+  over flow;hidden;
+}
+body {
+  background color #fc0000;
+}
+
+.links [
+  display: flex;
+.flex direction: row-reverse;
+margin;0;
+padding: 20px;
+font size: 10px;
+}
+.links a {
+  text-decoration:none;
+  color: #fff;
+}
+
+.links a:hover {
+  color: #4a4a4a;
+}
+.space 
+margin-left;10px;
+}
+
+h1 {
+  text-align:center;
+  margin: 20px auto -160px;
+  color: #ffffff;
+  font-size: 100px;
+  font-weight: 600;
+}
+
+form {
+  display: flex;
+  flex-flow:column;
+  margin-top: 100px;
+}
+input [type="text"] {
+margin: 0 auto;
+border:0,5px solid: #afaf900;
+width: 45vw;
+height: 7vh;
+border-radius: 50px;
+font-size: 18px;
+background-color: #1a1a1;
+padding-left: 20px;
+}
+
+input [type="text" :hover]{
+backgroud-color: #f30000; border:none;
+box-sadow: 0-0 20px 10px 0 rgba 24B;0,215,0.8;
+}
+.input [type="submit"]{
+margin: 20px auto;
+font-size: 15px;
+padding: 10px;
+}
+background-color: #cao11c;
+color: #ca011c;
+color: #fff;
+border: none;
+border-radius: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+background-color: #05d7ee;
+{
+#adv-link {
+  color: red;
+  font-weight: 600;
+}
+  #adv-link:hover {
+    color: blue;
+]
+
+  .adv -search {
+    margin: 0;
+    padding-right: 1050px;
+    font-size: 20px;
+    font-weight: 400;
+    color: red
+  }
+
+    hr {
+      margin-top: 30px;
+      border: 1px solid #999999;
+    } 
+
+    h2 {
+      color: #1a1a1a;
+      margin-bottom 30px;
+      padding-top: 40px;
+      padding-left:50px;
+      font-size: 16px;
+      font-weight: 200;
+    }
+
+    .form {
+      margin: 50px auto;
+      padding-left: 50px;
+    }
+
+    #words,
+    #padding,
+    #any,
+    #none {
+      border-radius: 0;
+      background-color : #fff;
+      color: #1a1a1a;
+      height: 5vh;
+      margin-top -20px;
+      margin-left: 200px;
+      margin-bottom: 20px;
+    }
+
+    #adv-search {
+      background-color: #ff0404;
+      font-weight: 600;
+      font-size:10px;
+      width: 11%;
+      margin-top: auto;
+      margin-left: 615px;
+      border-radius: 0;
+    }
+
+    #adv-search:hover
+    border:1px solid #0250c5;
